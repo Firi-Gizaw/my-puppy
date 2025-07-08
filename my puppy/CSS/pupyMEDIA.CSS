@@ -27,6 +27,7 @@ img{
     font-size: 38px;
     background-color: pink;
     display: none;
+    padding-bottom: 20px;
  }
  .f img{
     width:400px;
@@ -51,4 +52,19 @@ img{
     color: white;
     font-size: 20px;
     height:30px;
+}
+@media(min-width:720px){
+    .e{
+        display: block;
+        padding-bottom: 20px;
+        height: 380px;
+    }
+    .g{
+        display: flex;
+    }
+    .j{
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
 }
