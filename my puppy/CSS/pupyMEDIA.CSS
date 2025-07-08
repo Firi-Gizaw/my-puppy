@@ -1,3 +1,54 @@
 img{
     width: 100%;
 }
+.a{
+    background-color: blue;
+    text-align: center;
+    margin: 0%;
+    padding-top:  0px;
+    padding-bottom: 10px;
+    height: 30px;
+}
+.c{
+    text-align: center;
+    
+    font-size: xx-large;
+}
+.d img{
+    width :400px;
+
+ }
+ .d, .e, .f, .h{
+    padding-bottom: 30px;
+ }
+ .e{
+    text-align: center;
+    width: 400px;
+    font-size: 38px;
+    background-color: pink;
+    display: none;
+ }
+ .f img{
+    width:400px;
+ }
+.g{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.j img{
+    width:400px ;
+}
+.j{
+     margin-left: 40px;
+    margin-right: 40px;
+
+}
+.k{
+    background-color: darkcyan;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height:30px;
+}
